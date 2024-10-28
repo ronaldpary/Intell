@@ -1,0 +1,12 @@
+2024-10-28 17:43:10.645778-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" not found (this database is empty); SQL statement:
+select ve1_0.id,ve1_0.id_modelo,ve1_0.patente from vehiculos ve1_0 [42104-222]
+2024-10-28 17:43:36.050068-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" not found (this database is empty); SQL statement:
+select ve1_0.id,ve1_0.id_modelo,ve1_0.patente from vehiculos ve1_0 [42104-222]
+2024-10-28 17:46:31.536861-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULO" not found (this database is empty); SQL statement:
+select ve1_0.id,ve1_0.id_modelo,ve1_0.patente from vehiculo ve1_0 [42104-222]
+2024-10-28 17:47:59.371434-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHÍCULOS" not found (this database is empty); SQL statement:
+select ve1_0.id,ve1_0.id_modelo,ve1_0.patente from vehículos ve1_0 [42104-222]
