@@ -16,7 +16,6 @@ public class PruebaEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-
     @Column(name="ID", nullable = false)
     private Integer ID;
 
